@@ -1,11 +1,11 @@
 # Site settings
 author: Emery Tate
-title: 
+title: Journey to Software Developer
 header-img: img/home-bg.png
 email: tateejt@gmail.com
 copyright_name: Emery Tate
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The journey to becoming a software developer 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tateejt
